@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GopinathGovindarajan ,Would Like to explore my AWS Knowledge base please find the pdf
 - 👀 AWS EC2 Instance,VPC and Subnet RT Table,SG Group,ESB Volume,IAM,S3Bucket
 - 🌱 AWS Hands on Experience and evidence for your reference .
-- 💞️1)AWS EC2 Instance creation and setup
--   2) VPC and Subnet Creation RT table
+- 💞️1)AWS EC2 Instance creation and setup - AWS-EC2-Instance-Creation-server-build-org.pdf
+-    2) VPC and Subnet Creation RT table
 - 📫 How to reach me ...
 
 <!---
